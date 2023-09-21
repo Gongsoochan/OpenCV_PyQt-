@@ -1,4 +1,4 @@
-# OpenCV_PyQt-
+# OpenCV_PyQt-study
 Date : 2023.09.21
 
 Data : -
